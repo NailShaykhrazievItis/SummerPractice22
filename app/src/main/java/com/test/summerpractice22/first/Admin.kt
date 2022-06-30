@@ -1,8 +1,9 @@
-package com.test.summerpractice22
+package com.test.summerpractice22.first
 
 import android.util.Log
 
 data class Admin(
+    val id: Int,
     val myEmail: String = "admin@gmail.com",
 ) : User(
     email = myEmail,

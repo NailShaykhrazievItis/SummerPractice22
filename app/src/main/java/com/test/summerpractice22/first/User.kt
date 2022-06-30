@@ -1,4 +1,4 @@
-package com.test.summerpractice22
+package com.test.summerpractice22.first
 
 import kotlin.random.Random
 
